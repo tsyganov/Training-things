@@ -13,6 +13,8 @@
 		1E1FFF861A55B993004C0105 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E1FFF851A55B993004C0105 /* Images.xcassets */; };
 		1E1FFF891A55B993004C0105 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1E1FFF871A55B993004C0105 /* LaunchScreen.xib */; };
 		1E1FFF951A55B994004C0105 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1FFF941A55B994004C0105 /* PostcardTests.swift */; };
+		1E1FFF9F1A55E940004C0105 /* ofiget.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E1FFF9E1A55E940004C0105 /* ofiget.png */; };
+		1E1FFFA11A55EC81004C0105 /* hello.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1E1FFFA01A55EC81004C0105 /* hello.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		1E1FFF8E1A55B994004C0105 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E1FFF931A55B994004C0105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1E1FFF941A55B994004C0105 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		1E1FFF9E1A55E940004C0105 /* ofiget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ofiget.png; sourceTree = "<group>"; };
+		1E1FFFA01A55EC81004C0105 /* hello.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hello.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		1E1FFF7C1A55B993004C0105 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1E1FFFA01A55EC81004C0105 /* hello.jpeg */,
+				1E1FFF9E1A55E940004C0105 /* ofiget.png */,
 				1E1FFF7D1A55B993004C0105 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,7 +200,9 @@
 			files = (
 				1E1FFF841A55B993004C0105 /* Main.storyboard in Resources */,
 				1E1FFF891A55B993004C0105 /* LaunchScreen.xib in Resources */,
+				1E1FFFA11A55EC81004C0105 /* hello.jpeg in Resources */,
 				1E1FFF861A55B993004C0105 /* Images.xcassets in Resources */,
+				1E1FFF9F1A55E940004C0105 /* ofiget.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
